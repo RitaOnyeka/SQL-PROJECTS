@@ -1,0 +1,4 @@
+--SELECT TOP (1000) [EmployeeID]
+--      ,[FirstName]
+--      ,[LastName]
+--  FROM [SQLTutorial].[dbo].[EmployeeMistakes]
